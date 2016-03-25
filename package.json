@@ -1,0 +1,26 @@
+{
+  "name": "getcqinfo",
+  "version": "1.0.0",
+  "description": "get cqupt students info",
+  "main": "getInfo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frozenme/GetCUQPTStu.git"
+  },
+  "keywords": [
+    "CQUPT"
+  ],
+  "author": "yaosui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frozenme/GetCQstu/issues"
+  },
+  "homepage": "https://github.com/Frozenme/GetCQstu#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.69.0"
+  }
+}
